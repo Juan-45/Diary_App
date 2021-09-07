@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Diary_App/static/css/main.095fe4b4.chunk.css",
+    "main.js": "/Diary_App/static/js/main.53887822.chunk.js",
+    "main.js.map": "/Diary_App/static/js/main.53887822.chunk.js.map",
+    "runtime-main.js": "/Diary_App/static/js/runtime-main.79e9d377.js",
+    "runtime-main.js.map": "/Diary_App/static/js/runtime-main.79e9d377.js.map",
+    "static/js/2.ef60c244.chunk.js": "/Diary_App/static/js/2.ef60c244.chunk.js",
+    "static/js/2.ef60c244.chunk.js.map": "/Diary_App/static/js/2.ef60c244.chunk.js.map",
+    "static/js/3.2b06b506.chunk.js": "/Diary_App/static/js/3.2b06b506.chunk.js",
+    "static/js/3.2b06b506.chunk.js.map": "/Diary_App/static/js/3.2b06b506.chunk.js.map",
+    "index.html": "/Diary_App/index.html",
+    "static/css/main.095fe4b4.chunk.css.map": "/Diary_App/static/css/main.095fe4b4.chunk.css.map",
+    "static/js/2.ef60c244.chunk.js.LICENSE.txt": "/Diary_App/static/js/2.ef60c244.chunk.js.LICENSE.txt",
+    "static/media/mountainPath.7c6b82c6.jpg": "/Diary_App/static/media/mountainPath.7c6b82c6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79e9d377.js",
+    "static/js/2.ef60c244.chunk.js",
+    "static/css/main.095fe4b4.chunk.css",
+    "static/js/main.53887822.chunk.js"
+  ]
+}
